@@ -140,7 +140,7 @@ function App() {
           </h1>
         </div>
         <p className="text-base md:text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed">
-          Turn any short video into a printable PDF of sequential image frames. Cut them out, clamp them, and bring your video to life on paper!
+          Turn any short video into a printable PDF of sequential image frames. Cut them out, clamp them, and bring your video to life on paper!, Made by Ankush Sharma😤😁
         </p>
       </motion.header>
 
